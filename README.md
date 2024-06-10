@@ -43,3 +43,16 @@ Basada en el nivel de significación y el valor p, se toma la decisión de recha
 
 Si p < α, rechazar H₀.
 Si p ≥ α, no rechazar H₀.
+
+
+## Importancia en el Análisis de Datos
+
+El contraste de hipótesis es fundamental en el análisis de datos porque proporciona una metodología estructurada para tomar decisiones basadas en datos. Permite a los analistas:
+
+* Evaluar la evidencia empírica.
+* Tomar decisiones informadas y objetivas.
+* Controlar y cuantificar los riesgos de error en las decisiones.
+* Proporcionar una base estadística para validar o refutar afirmaciones y teorías.
+
+
+El contraste de hipótesis es ampliamente utilizado en muchas disciplinas, incluyendo la medicina, psicología, economía, ingeniería y ciencias sociales, para validar estudios y experimentos científicos.
